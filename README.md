@@ -16,7 +16,7 @@ I love understanding how things work under the hood. I build everything from low
 ### 📊 My Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=filipevf23&show_icons=true&bg_color=FDF5E6&title_color=8B4513&text_color=A0522D&icon_color=D2691E&border_color=DEB887&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=filipevf23&show_icons=true&hide_rank=true&hide=stars,issues,prs&bg_color=FDF5E6&title_color=8B4513&text_color=A0522D&icon_color=D2691E&border_color=DEB887&locale=en" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipevf23&layout=compact&bg_color=FDF5E6&title_color=8B4513&text_color=A0522D&border_color=DEB887&locale=en" alt="Top Languages" height="195"/>
 </p>
 
