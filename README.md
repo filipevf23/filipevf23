@@ -1,6 +1,6 @@
 # Hi, I'm Filipe! 🍻
 
-**"Looking back, we were the luckiest people in the world. There was no choice but to be pioneers, no time to be beginners."**
+**Computer Science @ FCUP**
 
 I like Game Engines and low-level stuff.
 
