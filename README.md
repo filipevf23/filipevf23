@@ -1,14 +1,14 @@
-# Hi, I'm Filipe! 🍂
+# Hi, I'm Filipe! 🍻
 
-**Software Developer | Focused on efficiency and clean code**
+**"Looking back, we were the luckiest people in the world. There was no choice but to be pioneers, no time to be beginners."**
 
-I love understanding how things work under the hood. I build everything from low-level optimized algorithms to high-level solutions.
+I like Game Engines and low-level stuff.
 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-8B4513?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-A0522D?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-8B4513?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Python-D2691E?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-CD853F?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
